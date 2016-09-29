@@ -1,0 +1,16 @@
+
+packages/cef.redist.x86.3.2704.1432/cef.redist.x86.3.2704.1432.nupkg
+
+packages/cef.redist.x86.3.2704.1432/build/cef.redist.x86.targets
+
+packages/CefSharp.Common.51.0.0/CefSharp.Common.51.0.0.nupkg
+
+packages/cef.redist.x86.3.2704.1432/CEF/x86/widevinecdmadapter.dll
+
+packages/cef.redist.x86.3.2704.1432/CEF/x86/snapshot_blob.bin
+
+packages/cef.redist.x86.3.2704.1432/CEF/x86/natives_blob.bin
+
+packages/cef.redist.x86.3.2704.1432/CEF/x86/libcef.dll
+
+packages/*.*
